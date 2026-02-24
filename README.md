@@ -1,5 +1,5 @@
 # Hi, I'm Anil Kumar 👋  
-### Aspiring Data Analyst | MYSQL | Python | Power BI | Tableau | Excel  
+### Data Analyst | MYSQL | Python | Power BI | Tableau | Excel  
 
 ---
 
