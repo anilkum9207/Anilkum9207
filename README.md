@@ -29,6 +29,19 @@ Developed a desktop banking management system using Python & SQLite with transac
 Interactive dashboard analyzing revenue trends, profit margins, and regional performance.  
 🔗 Live Demo: https://public.tableau.com/views/Project-1_17698434231980/Superstore_dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+### 🔹 Excel Dashboard Project
+
+This interactive Excel dashboard analyzes:
+
+• Firm-wise Sales  
+• State-wise Sales  
+• GST-wise Analysis  
+• Monthly Sales Trends  
+• Product-wise Distribution  
+
+📥 Download Excel File:  
+[Click here to download](data/Sales_Analysis_Dashboard.xlsx)
+
 ### 🔹 SQL Data Analysis Project
 Performed advanced SQL queries including joins, aggregations, and KPI analysis.
 
