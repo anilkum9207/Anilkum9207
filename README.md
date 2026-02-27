@@ -25,8 +25,9 @@ Passionate about transforming raw data into meaningful insights and business dec
 ### 🔹 Banking Automation System
 Developed a desktop banking management system using Python & SQLite with transaction tracking and OTP-based verification.
 
-### 🔹 Sales Data Analysis Dashboard
-Built an interactive dashboard analyzing revenue trends, profit margins, and regional performance.
+### 🔹 Superstore Sales Dashboard (Tableau)
+Interactive dashboard analyzing revenue trends, profit margins, and regional performance.  
+🔗 Live Demo: https://public.tableau.com/views/Project-1_17698434231980/Superstore_dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### 🔹 SQL Data Analysis Project
 Performed advanced SQL queries including joins, aggregations, and KPI analysis.
